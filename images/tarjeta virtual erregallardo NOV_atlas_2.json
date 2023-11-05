@@ -1,0 +1,27 @@
+﻿{"frames": {
+
+"tarjetavirtualerregallardo700x700CARAinfo":
+{
+	"frame": {"x":0,"y":0,"w":700,"h":700},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":700,"h":700},
+	"sourceSize": {"w":700,"h":700}
+},
+"tarjetavirtualerregallardo700x700CARAlogo":
+{
+	"frame": {"x":0,"y":702,"w":700,"h":700},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":700,"h":700},
+	"sourceSize": {"w":700,"h":700}
+}},
+"meta": {
+	"app": "Adobe Animate",
+	"version": "21.0.1.37179",
+	"image": "tarjeta virtual erregallardo NOV_atlas_2.png",
+	"format": "undefined",
+	"size": {"w":1024,"h":2048},
+	"scale": "1"
+}
+}
